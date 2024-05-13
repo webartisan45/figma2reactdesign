@@ -93,7 +93,7 @@ const InvestmentModal = () => {
             </div>
           </div>
         </div>
-        <ul class="list-disc p-[18px]">
+        <ul className="list-disc p-[18px]">
           <li className='font-medium text-sm mb-1'>파일 형식은 jpg, jpeg, gif, png, pdf만 가능합니다.</li>
           <li className='font-medium text-sm'>최대 10개, 100MB까지 등록이 가능합니다.</li>
         </ul>

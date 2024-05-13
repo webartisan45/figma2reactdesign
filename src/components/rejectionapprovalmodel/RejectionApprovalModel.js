@@ -97,7 +97,7 @@ const RejectionApprovalModel = () => {
                 <input type="checkbox" className='h-[20px] w-[16px] mr-[8px]'/> 
                 <span className='font-semibold text-sm'>직접 입력</span>
               </label>
-              <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-[#DDE0E5] !border !border-[#B1B4BB] !h-[100px] rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="사유 입력"></textarea>
+              <textarea id="message" rows="4" className="block p-2.5 w-full text-sm text-gray-900 bg-[#DDE0E5] !border !border-[#B1B4BB] !h-[100px] rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="사유 입력"></textarea>
             </div>
           </div>
         </div>
